@@ -5,6 +5,12 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
+# sql not tracked
+*.sql
+
+# folder with data files
+PRSA_Data_20130301-20170228
+
 # Remove previous ipynb_checkpoints
 #   git rm -r .ipynb_checkpoints/
 #
