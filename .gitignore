@@ -11,6 +11,9 @@
 # folder with data files
 PRSA_Data_20130301-20170228
 
+# ignore data table provided by TA
+beijing_pollution.csv
+
 # Remove previous ipynb_checkpoints
 #   git rm -r .ipynb_checkpoints/
 #
